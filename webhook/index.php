@@ -1,9 +1,9 @@
 <?php
     error_reporting(1);
 
-    $target = '/data/wwwroot/gitskills'; // 生产环境web目录
+    $target = '/data/www/gitskills'; // 生产环境web目录
 
-    $token = 'photo';
+#    $token = 'photo';
     $wwwUser = 'njfae';
     $wwwGroup = 'njfae';
 
