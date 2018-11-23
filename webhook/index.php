@@ -4,8 +4,8 @@
     $target = '/data/www/gitskills'; // 生产环境web目录
 
 #    $token = 'photo';
-    $wwwUser = 'njfae';
-    $wwwGroup = 'njfae';
+    $wwwUser = 'www';
+    $wwwGroup = 'www';
 
     $json = json_decode(file_get_contents('php://input'), true);
 
